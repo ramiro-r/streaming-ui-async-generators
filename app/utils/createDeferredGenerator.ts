@@ -1,4 +1,3 @@
-import { count } from "console";
 import { DeferredGenerator } from "../types/DeferredGenerator";
 
 export function createDeferredGenerator<
